@@ -9,7 +9,7 @@ GIS projects for fiber network planning in Saudi Arabia.
 - Central Office: 1
 - Tools: QGIS, OpenStreetMap
 
-![Network Topology](screenshot.png)
+![Network Topology](Day 3.png)
 
 ## Skills
 - QGIS
